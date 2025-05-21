@@ -1,2 +1,27 @@
-# awesome-leadership-and-management-mind-maps
+# Awesome Leadership & Management Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Strengthen leadership and management with project management and mind maps AI to align vision with execution and drive team success. Mind maps AI supports strategic decision-making, fosters collaboration, and helps leaders navigate challenges with clarity and confidence.
+
+- [10 Lessons People Learn Too Late](https://mindmapai.app/mind-map/10-lessons-people-learn-too-late-882df208)
+- [Building a Better Workplace Culture](https://mindmapai.app/mind-map/building-a-better-workplace-culture-e691df1b)
+- [Communication Challenges in the Workplace](https://mindmapai.app/mind-map/communication-challenges-in-the-workplace-001f343f)
+- [Cross-Cultural Negotiation](https://mindmapai.app/mind-map/cross-cultural-negotiation-c67eb06e)
+- [Dalton Alberto Gilberto: Perfil Profissional](https://mindmapai.app/mind-map/dalton-alberto-gilberto-perfil-profissional-18a05bca)
+- [Distributive Bargaining Situation](https://mindmapai.app/mind-map/distributive-bargaining-situation-620f9efe)
+- [Elon Musk](https://mindmapai.app/mind-map/elon-musk-28e130ba)
+- [Expanding Team Potential Beyond Limits](https://mindmapai.app/mind-map/expanding-team-potential-beyond-limits-c02169f6)
+- [Expect to Win](https://mindmapai.app/mind-map/expect-to-win-0a6e0121)
+- [How to Improve Public Speaking Skills for Students](https://mindmapai.app/mind-map/how-to-improve-public-speaking-skills-for-students-3a91ffa8)
+- [How to be Remarkable](https://mindmapai.app/mind-map/how-to-be-remarkable-1aeda383)
+- [Ideal Leader](https://mindmapai.app/mind-map/ideal-leader-80ee79f7)
+- [Integrative negotiation process](https://mindmapai.app/mind-map/integrative-negotiation-process-0972dbf8)
+- [Kepimpinan Berkesan](https://mindmapai.app/mind-map/kepimpinan-berkesan-2cf48ae7)
+- [Manager Roles and Responsibilities](https://mindmapai.app/mind-map/manager-roles-and-responsibilities-94928a0a)
+- [Managing Yourself](https://mindmapai.app/mind-map/managing-yourself-e3f3173c)
+- [Merit America Strategic DEI Framework](https://mindmapai.app/mind-map/merit-america-strategic-dei-framework-a9beee3d)
+- [Negotiation & Conflict Management](https://mindmapai.app/mind-map/negotiation-conflict-management-1b5c9953)
+- [Numerically Measurable Leadership Skills](https://mindmapai.app/mind-map/numerically-measurable-leadership-skills-0fe3a3ca)
+- [Organizational Forms in Ecuador's Popular and Solidarity Economy](https://mindmapai.app/mind-map/organizational-forms-in-ecuadors-popular-and-solidarit-3f4a6ac7)
+- [The Infinite Game](https://mindmapai.app/mind-map/the-infinite-game-70827a82)
+- [Tips for Improving Your Public Speaking Skills](https://mindmapai.app/mind-map/tips-for-improving-your-public-speaking-skills-bafab737)
+- [U.S. Emergency Support Functions (ESFs)](https://mindmapai.app/mind-map/u.s.-emergency-support-functions-esfs-dc505724)
